@@ -1,0 +1,35 @@
+{
+  "name": "xSquare",
+  "iconURL": "https://mbixjkee.github.io/xsquare-altstore/icon.png",
+  "website": "https://mbixjkee.github.io/privacy/xsquare/",
+  "fediUsername": "xsquare",
+  "nsfw": false,
+  "apps": [
+    {
+      "name": "xSquare - Number Puzzle",
+      "bundleIdentifier": "dev.mbixjkee.2048xsquare",
+      "marketplaceID": "6800640196",
+      "developerName": "Mikhail Zotev",
+      "subtitle": "Every move is on a clock",
+      "localizedDescription": "Take your time — or race against it.\n\nTIME ATTACK\nEvery move is on a clock. Run out of time and you lose a life — you start with three. The further you get, the less time you have to make each move. Reach 2048 before you run out of lives.\n\nCLASSIC\nNo timer, no pressure. Pick a board from 4x4 to 7x7. Smaller boards leave little room for mistakes, while larger ones give you space to plan ahead and chase higher scores. Made a wrong move? Undo it and try a different one — three free undos per game, with more available through optional rewarded ads.\n\nFeatures\n• Time Attack with a timer on every move\n• Three lives in Time Attack\n• Four board sizes: 4x4, 5x5, 6x6 and 7x7\n• Classic mode with endless play beyond 2048\n• Undo moves in Classic\n• Optional rewarded ads for extra lives and undos\n• Separate records for both modes\n• Automatic progress saving\n• Light and dark themes\n• Sound and vibration controls\n• Fully playable offline\n• No registration or account required\n• English, German and Russian\n\nFree to play. Contains ads.\n\nInspired by the original 2048 game created by Gabriele Cirulli.",
+      "iconURL": "https://mbixjkee.github.io/xsquare-altstore/icon.png",
+      "versions": [
+        {
+          "version": "1.1.0",
+          "buildVersion": "6",
+          "date": "2026-10-05T21:30:47Z",
+          "localizedDescription": "Time Attack mode, new app icon, and font-scaling fixes.",
+          "downloadURL": "https://mbixjkee.github.io/xsquare-altstore/releases/1.1.0/manifest.json",
+          "size": 11043217,
+          "minOSVersion": "13.0"
+        }
+      ],
+      "appPermissions": {
+        "entitlements": [],
+        "privacy": {
+          "NSUserTrackingUsageDescription": "This identifier will be used to show you more relevant ads."
+        }
+      }
+    }
+  ]
+}
